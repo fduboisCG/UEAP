@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E4C9FAFD-4FF2-9B61-2181-629EEDB47497}",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -9,6 +9,15 @@
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
+			]
+		},
+		{
+			"Name": "Avalanche",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
 			]
 		}
 	]
