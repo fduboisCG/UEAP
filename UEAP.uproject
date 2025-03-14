@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{5DEF9AB3-4694-5132-158E-6DB2782EFA41}",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -18,6 +18,15 @@
 				"Win64",
 				"Linux",
 				"Mac"
+			]
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
 			]
 		}
 	]
